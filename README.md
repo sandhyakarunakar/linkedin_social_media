@@ -17,3 +17,5 @@ discussions will maximize the benefits they receive from LinkedIn.
 
 
 ![Screenshot (196)](https://github.com/sandhyakarunakar/linkedin_social_media/assets/139707260/0e996a3f-d937-4c88-9819-e33d08b14a1e)
+
+As u can see the project documentation which we uploaded above...for more info.
